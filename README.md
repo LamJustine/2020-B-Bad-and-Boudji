@@ -7,7 +7,7 @@ Members:
 
 
 # Project Title: Buskey
- **Description**: The project is the conception of an electronic key-ring. In fact, we'll create a small object, connected to the french application RATP that can allow you to see in how many time your metro, tram or bus will arrive. The user will have a small internet page interface to choose which station he wants the key-ring to print and then, the key-ring will always print in how many time the bus is coming. This is a very intersting project because it will be a big time-saving especially in the morning.
+ **Description**:  Our project is a decibel metter. We will have a sound sensor that can measures and displays the decibel number of the room and at a certain decibel (pre-defined) that will generate a sound alert. 
 
 [Click here for more information about the project](project) 
 
