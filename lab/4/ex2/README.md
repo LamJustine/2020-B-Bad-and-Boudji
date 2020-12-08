@@ -3,7 +3,7 @@
 # Exercise 2
 We have to upload the code from lab 3, build the circuit and see if its works
 ## Schematic 
-![Test Image]()
+![Test Image](https://github.com/LamJustine/2020-B-Bad-and-Boudji/blob/main/lab/4/ex2/130690584_703748360282401_3188846469530334827_n.jpg)
 
 ## Code
  ```Arduino
