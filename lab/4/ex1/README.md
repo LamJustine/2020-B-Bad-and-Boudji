@@ -3,7 +3,7 @@
 # Exercise 1 
 We have to upload the led blink code from lab 1, build the circuit and see if its works
 ## Schematic 
-![Test Image](photo.png?raw=true)
+![Test Image](https://github.com/LamJustine/2020-B-Bad-and-Boudji/blob/main/lab/4/ex1/130448685_302881177654537_63442097216143856_n.jpg)
 
 ## Code
  ```Arduino
