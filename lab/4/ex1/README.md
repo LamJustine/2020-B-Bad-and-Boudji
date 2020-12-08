@@ -6,7 +6,8 @@ We have to upload the led blink code from lab 1, build the circuit and see if it
 ![Test Image](photo.png?raw=true)
 
 ## Code
-'''Arduino
+ ```Arduino
+ 
 const int led = 12;
  
 // the setup routine runs once when you press reset:
@@ -23,4 +24,4 @@ void loop() {
   delay(1000);                  // wait for a second
 }
 
-'''Arduino  
+```
